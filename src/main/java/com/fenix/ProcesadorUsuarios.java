@@ -77,5 +77,5 @@ public class ProcesadorUsuarios {
         admins += nombre + ",";
         return admins;
     }
-
+//Cambio para probar la integración continua (CI)
 }
