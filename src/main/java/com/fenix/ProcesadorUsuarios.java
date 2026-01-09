@@ -15,6 +15,10 @@ import java.util.List;
 
 public class ProcesadorUsuarios {
 
+    /**
+     * Constructor por defecto de la clase ProcesadorUsuarios.
+     */
+
     private static final int ROL_INVITADO = 2;
     private static final int ROL_ADMIN = 1;
 
